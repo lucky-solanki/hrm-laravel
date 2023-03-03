@@ -1,0 +1,1 @@
+<h1>WelCome</h1><?php /**PATH C:\laragon\www\hrm\resources\views/welcome.blade.php ENDPATH**/ ?>
